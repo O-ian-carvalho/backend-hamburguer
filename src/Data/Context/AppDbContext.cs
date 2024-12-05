@@ -2,16 +2,12 @@
 using Hamurgueria.Business.Models.Categorization;
 using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hamurgueria.Data.Context
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext( DbContextOptions<AppDbContext> options) : base(options)
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
             ChangeTracker.AutoDetectChangesEnabled = true;
@@ -23,13 +19,12 @@ namespace Hamurgueria.Data.Context
         public DbSet<Categorie> Categories { get; set; }
         public DbSet<Status> Status { get; set; }
 
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
             base.OnModelCreating(modelBuilder);
 
-
+            // IDs de Status
             var statusPendenteId = Guid.NewGuid();
             var statusConcluidoId = Guid.NewGuid();
             var statusCanceladoId = Guid.NewGuid();
@@ -41,9 +36,8 @@ namespace Hamurgueria.Data.Context
                 new Status { Id = statusCanceladoId, Name = "Cancelado" }
             );
 
-            // Seeding para Categorias
+            // Seeding para Categoria
             var category1 = Guid.NewGuid();
-            var category2 = Guid.NewGuid();
 
             modelBuilder.Entity<Categorie>().HasData(
                 new Categorie
@@ -52,13 +46,6 @@ namespace Hamurgueria.Data.Context
                     Name = "Hambúrgueres Clássicos",
                     PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true",
                     Description = "Os melhores hambúrgueres tradicionais."
-                },
-                new Categorie
-                {
-                    Id = category2,
-                    Name = "Bebidas",
-                    PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true",
-                    Description = "Refresque-se com nossas bebidas."
                 }
             );
 
@@ -80,12 +67,12 @@ namespace Hamurgueria.Data.Context
                 new Product
                 {
                     Id = product2,
-                    Name = "Refrigerante",
+                    Name = "X-Bacon",
                     PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true",
-                    Price = 4.50m,
-                    BaseDescription = "Bebida gelada.",
-                    FullDescription = "Refrigerante sabor cola em lata de 350ml.",
-                    CategorieId = category2
+                    Price = 18.50m,
+                    BaseDescription = "Pão, carne, bacon e queijo.",
+                    FullDescription = "Pão brioche, carne suculenta, bacon crocante e queijo cheddar.",
+                    CategorieId = category1
                 }
             );
 
@@ -103,7 +90,7 @@ namespace Hamurgueria.Data.Context
             );
 
             // Seeding para Pedidos
-            var order1 = Guid.NewGuid();
+            var order1 = Guid.Parse("08dd14b9-4f27-481b-8772-9bcb5362b24f");
 
             modelBuilder.Entity<Order>().HasData(
                 new Order
@@ -115,6 +102,5 @@ namespace Hamurgueria.Data.Context
                 }
             );
         }
-
     }
 }

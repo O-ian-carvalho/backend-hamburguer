@@ -149,39 +149,35 @@ namespace Hamurgueria.Data.Migrations
             migrationBuilder.InsertData(
                 table: "Categories",
                 columns: new[] { "Id", "Description", "Name", "PathImage" },
-                values: new object[,]
-                {
-                    { new Guid("1b268bdb-4a0a-49f4-a60d-e47b86e24511"), "Os melhores hambúrgueres tradicionais.", "Hambúrgueres Clássicos", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true" },
-                    { new Guid("bc4b3c13-6da0-485d-85bc-316ede839ca0"), "Refresque-se com nossas bebidas.", "Bebidas", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true" }
-                });
+                values: new object[] { new Guid("6caed206-0b6b-40b1-9441-c83370378185"), "Os melhores hambúrgueres tradicionais.", "Hambúrgueres Clássicos", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true" });
 
             migrationBuilder.InsertData(
                 table: "Status",
                 columns: new[] { "Id", "Name" },
                 values: new object[,]
                 {
-                    { new Guid("217fdfe7-85c9-48ab-8367-89a8e8e64726"), "Concluído" },
-                    { new Guid("77467b33-4579-49de-ab2f-e560f45fa010"), "Pendente" },
-                    { new Guid("ccef5cd6-2ed4-4ae8-8133-b156423f96da"), "Cancelado" }
+                    { new Guid("16d057d7-f780-44b2-94a5-ff8d46a34eef"), "Pendente" },
+                    { new Guid("d264ed0f-5bc7-4dd0-83a5-98ea4ef2954f"), "Cancelado" },
+                    { new Guid("e7012da5-be93-476f-8092-8534cc5c2fbc"), "Concluído" }
                 });
 
             migrationBuilder.InsertData(
                 table: "Users",
                 columns: new[] { "Id", "Email", "Name", "Password" },
-                values: new object[] { new Guid("4199b301-b540-4323-bbf2-9c5c5c1fa8b4"), "joao@gmail.com", "João Silva", "Senha123" });
+                values: new object[] { new Guid("57d5da9c-627a-4b0b-94a3-a195d685d93d"), "joao@gmail.com", "João Silva", "Senha123" });
 
             migrationBuilder.InsertData(
                 table: "Orders",
                 columns: new[] { "Id", "StatusId", "UserId", "Value" },
-                values: new object[] { new Guid("dce3b7d2-f4f0-4772-9c1d-6ca80ea8c712"), new Guid("77467b33-4579-49de-ab2f-e560f45fa010"), new Guid("4199b301-b540-4323-bbf2-9c5c5c1fa8b4"), 15.99m });
+                values: new object[] { new Guid("08dd14b9-4f27-481b-8772-9bcb5362b24f"), new Guid("16d057d7-f780-44b2-94a5-ff8d46a34eef"), new Guid("57d5da9c-627a-4b0b-94a3-a195d685d93d"), 15.99m });
 
             migrationBuilder.InsertData(
                 table: "Products",
                 columns: new[] { "Id", "BaseDescription", "CategorieId", "FullDescription", "Name", "PathImage", "Price" },
                 values: new object[,]
                 {
-                    { new Guid("96b18c7f-0e10-4e8a-a078-64118a733ac0"), "Pão, carne e queijo.", new Guid("1b268bdb-4a0a-49f4-a60d-e47b86e24511"), "Pão brioche, carne suculenta e queijo cheddar.", "Cheeseburger", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true", 15.99m },
-                    { new Guid("a87c5660-1f5d-4c1c-bb6b-ec10d192e3a5"), "Bebida gelada.", new Guid("bc4b3c13-6da0-485d-85bc-316ede839ca0"), "Refrigerante sabor cola em lata de 350ml.", "Refrigerante", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true", 4.50m }
+                    { new Guid("5b992599-618c-4b96-9afd-baaea7e817b4"), "Pão, carne, bacon e queijo.", new Guid("6caed206-0b6b-40b1-9441-c83370378185"), "Pão brioche, carne suculenta, bacon crocante e queijo cheddar.", "X-Bacon", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true", 18.50m },
+                    { new Guid("b196e216-632b-4e8d-8e27-5972a84ff190"), "Pão, carne e queijo.", new Guid("6caed206-0b6b-40b1-9441-c83370378185"), "Pão brioche, carne suculenta e queijo cheddar.", "Cheeseburger", "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true", 15.99m }
                 });
 
             migrationBuilder.CreateIndex(
