@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hamurgueria.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34490b14be9ad9054cfc67a83da346dbbf17c0d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec91413047a0f2fb9ceffe5909b7df32f1aa921")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hamurgueria.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hamurgueria.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

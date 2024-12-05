@@ -25,4 +25,8 @@
     <ProjectReference Include="..\Business\Hamurgueria.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

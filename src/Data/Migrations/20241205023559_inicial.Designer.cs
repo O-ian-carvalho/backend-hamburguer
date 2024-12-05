@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hamurgueria.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241204201013_v2")]
-    partial class v2
+    [Migration("20241205023559_inicial")]
+    partial class inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -49,6 +49,22 @@ namespace Hamurgueria.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("1b268bdb-4a0a-49f4-a60d-e47b86e24511"),
+                            Description = "Os melhores hambúrgueres tradicionais.",
+                            Name = "Hambúrgueres Clássicos",
+                            PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true"
+                        },
+                        new
+                        {
+                            Id = new Guid("bc4b3c13-6da0-485d-85bc-316ede839ca0"),
+                            Description = "Refresque-se com nossas bebidas.",
+                            Name = "Bebidas",
+                            PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true"
+                        });
                 });
 
             modelBuilder.Entity("Hamurgueria.Business.Models.Categorization.Status", b =>
@@ -65,6 +81,23 @@ namespace Hamurgueria.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Status", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("77467b33-4579-49de-ab2f-e560f45fa010"),
+                            Name = "Pendente"
+                        },
+                        new
+                        {
+                            Id = new Guid("217fdfe7-85c9-48ab-8367-89a8e8e64726"),
+                            Name = "Concluído"
+                        },
+                        new
+                        {
+                            Id = new Guid("ccef5cd6-2ed4-4ae8-8133-b156423f96da"),
+                            Name = "Cancelado"
+                        });
                 });
 
             modelBuilder.Entity("Hamurgueria.Business.Models.Order", b =>
@@ -89,6 +122,15 @@ namespace Hamurgueria.Data.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Orders", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("dce3b7d2-f4f0-4772-9c1d-6ca80ea8c712"),
+                            StatusId = new Guid("77467b33-4579-49de-ab2f-e560f45fa010"),
+                            UserId = new Guid("4199b301-b540-4323-bbf2-9c5c5c1fa8b4"),
+                            Value = 15.99m
+                        });
                 });
 
             modelBuilder.Entity("Hamurgueria.Business.Models.Product", b =>
@@ -126,6 +168,28 @@ namespace Hamurgueria.Data.Migrations
                     b.HasIndex("CategorieId");
 
                     b.ToTable("Products", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("96b18c7f-0e10-4e8a-a078-64118a733ac0"),
+                            BaseDescription = "Pão, carne e queijo.",
+                            CategorieId = new Guid("1b268bdb-4a0a-49f4-a60d-e47b86e24511"),
+                            FullDescription = "Pão brioche, carne suculenta e queijo cheddar.",
+                            Name = "Cheeseburger",
+                            PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true",
+                            Price = 15.99m
+                        },
+                        new
+                        {
+                            Id = new Guid("a87c5660-1f5d-4c1c-bb6b-ec10d192e3a5"),
+                            BaseDescription = "Bebida gelada.",
+                            CategorieId = new Guid("bc4b3c13-6da0-485d-85bc-316ede839ca0"),
+                            FullDescription = "Refrigerante sabor cola em lata de 350ml.",
+                            Name = "Refrigerante",
+                            PathImage = "https://github.com/O-ian-carvalho/backend-hamburguer/blob/master/img/hamburguer.png?raw=true",
+                            Price = 4.50m
+                        });
                 });
 
             modelBuilder.Entity("Hamurgueria.Business.Models.User", b =>
@@ -152,6 +216,15 @@ namespace Hamurgueria.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("4199b301-b540-4323-bbf2-9c5c5c1fa8b4"),
+                            Email = "joao@gmail.com",
+                            Name = "João Silva",
+                            Password = "Senha123"
+                        });
                 });
 
             modelBuilder.Entity("OrderProduct", b =>
