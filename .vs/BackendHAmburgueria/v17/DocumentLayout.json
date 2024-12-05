@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\intefaces\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\intefaces\\repositoryinterfaces\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,44 +71,24 @@
       "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\intefaces\\repositoryinterfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\intefaces\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\configuration\\dependencyinjectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\configuration\\dependencyinjectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\dto\u0027s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,14 +135,6 @@
       "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\hamurgueria.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\hamurgueria.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -161,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\hamburgueria.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1E9B9E-88E8-4FC1-B761-DBDE1582B6F6}|src\\Hamburgueria.Api\\Hamburgueria.Api.csproj|solutionrelative:src\\hamburgueria.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\notifications\\notificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -215,10 +219,6 @@
       "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\business\\intefaces\\repositoryinterfaces\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A85EAD6-1FCE-4E69-B941-3B997244E791}|src\\Business\\Hamurgueria.Business.csproj|solutionrelative:src\\business\\intefaces\\repositoryinterfaces\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\projeto final\\api\\backendhamburgueria\\src\\data\\migrations\\20241203012152_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B576309-DE34-4E84-A961-1CCE0E8DF773}|src\\Data\\Hamurgueria.Data.csproj|solutionrelative:src\\data\\migrations\\20241203012152_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -242,47 +242,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwC4AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Order.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:58:00.3Z"
+              "WhenOpened": "2024-12-03T00:11:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Program.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:56:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
+              "RelativeToolTip": "src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:30:57.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "src\\Data\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:28:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvygAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:41:02.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StatusController.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:54:33.196Z"
+              "WhenOpened": "2024-12-04T20:41:02.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:58:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategorieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
+              "RelativeToolTip": "src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:35:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategorieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\CategorieRepository.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Repository\\CategorieRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\CategorieRepository.cs",
+              "RelativeToolTip": "src\\Data\\Repository\\CategorieRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwBgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:39:05.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:50:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "src\\Data\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:18:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:11:27.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:42:53.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:42:10.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Business\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Product.cs",
+              "RelativeToolTip": "src\\Business\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:04:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategorieDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:41:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:38:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:39:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\UsersController.cs",
@@ -295,19 +480,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:50:06.257Z"
+              "WhenOpened": "2024-12-04T20:54:33.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "AutoMapperConfig.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Configuration\\AutoMapperConfig.cs",
               "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Configuration\\AutoMapperConfig.cs",
@@ -319,67 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatusDto.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\StatusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:42:10.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\ProductDto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:39:16.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\OrderDto.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:42:53.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategorieDto.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\CategorieDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:41:31.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "src\\Data\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "src\\Data\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wCIAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:18:58.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IOrderRepository.cs",
@@ -391,31 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "src\\Business\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Product.cs",
-              "RelativeToolTip": "src\\Business\\Models\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:04:34.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "src\\Business\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Order.cs",
-              "RelativeToolTip": "src\\Business\\Models\\Order.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:11:32.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "DependencyInjectionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Configuration\\DependencyInjectionConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Configuration\\DependencyInjectionConfiguration.cs",
@@ -427,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\ProductService.cs",
@@ -436,30 +537,6 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T01:48:41.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
-              "RelativeToolTip": "src\\Business\\Intefaces\\RepositoryInterfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:30:57.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Dto\u0027s\\UserDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:38:07.971Z"
             },
             {
               "$type": "Document",
@@ -475,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\IUserService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\IUserService.cs",
@@ -487,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\IProductService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\IProductService.cs",
@@ -499,19 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\Data\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "src\\Data\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:28:45.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Mappings\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\ProductConfiguration.cs",
@@ -523,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Mappings\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\UserConfiguration.cs",
@@ -535,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\User.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\User.cs",
@@ -547,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Hamurgueria.Business.csproj",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Hamurgueria.Business.csproj",
               "RelativeDocumentMoniker": "src\\Business\\Hamurgueria.Business.csproj",
@@ -559,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\Data\\Context\\AppDbContext.cs",
@@ -571,19 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategorieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\CategorieRepository.cs",
-              "RelativeDocumentMoniker": "src\\Data\\Repository\\CategorieRepository.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\CategorieRepository.cs",
-              "RelativeToolTip": "src\\Data\\Repository\\CategorieRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:39:05.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "src\\Data\\Repository\\UserRepository.cs",
@@ -595,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "StatusRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\StatusRepository.cs",
               "RelativeDocumentMoniker": "src\\Data\\Repository\\StatusRepository.cs",
@@ -607,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "src\\Data\\Repository\\Repository.cs",
@@ -619,19 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Program.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:56:17.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Hamurgueria.Data.csproj",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Hamurgueria.Data.csproj",
               "RelativeDocumentMoniker": "src\\Data\\Hamurgueria.Data.csproj",
@@ -643,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Hamburgueria.Api.csproj",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Hamburgueria.Api.csproj",
               "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Hamburgueria.Api.csproj",
@@ -655,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "CategorieService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\CategorieService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\CategorieService.cs",
@@ -667,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\UserService.cs",
@@ -679,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\OrderService.cs",
@@ -691,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "StatusService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\StatusService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\StatusService.cs",
@@ -703,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "IStatusService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\IStatusService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\IStatusService.cs",
@@ -715,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Services\\BaseService.cs",
@@ -727,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Entity.cs",
@@ -739,19 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "src\\Hamburgueria.Api\\Controllers\\MainController.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Hamburgueria.Api\\Controllers\\MainController.cs",
-              "RelativeToolTip": "src\\Hamburgueria.Api\\Controllers\\MainController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:11:27.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "OrderConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Mappings\\OrderConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\OrderConfiguration.cs",
@@ -763,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Notificator.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Notifications\\Notificator.cs",
               "RelativeDocumentMoniker": "src\\Business\\Notifications\\Notificator.cs",
@@ -775,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "CategorieConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Data\\Mappings\\CategorieConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Data\\Mappings\\CategorieConfiguration.cs",
@@ -787,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "ICategorieService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\ICategorieService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\ICategorieService.cs",
@@ -799,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Categorization\\Status.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Categorization\\Status.cs",
@@ -811,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Categorie.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Models\\Categorization\\Categorie.cs",
               "RelativeDocumentMoniker": "src\\Business\\Models\\Categorization\\Categorie.cs",
@@ -823,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\IOrderService.cs",
@@ -835,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "INotificator.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\ServicesIntefaces\\INotificator.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\ServicesIntefaces\\INotificator.cs",
@@ -847,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IUserRepository.cs",
@@ -859,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Notifications\\Notification.cs",
               "RelativeDocumentMoniker": "src\\Business\\Notifications\\Notification.cs",
@@ -871,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "IStatusRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IStatusRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IStatusRepository.cs",
@@ -883,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\IRepository.cs",
@@ -892,18 +921,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T19:23:09.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ICategorieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
-              "RelativeDocumentMoniker": "src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
-              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\Projeto final\\Api\\BackendHAmburgueria\\src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
-              "RelativeToolTip": "src\\Business\\Intefaces\\RepositoryInterfaces\\ICategorieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:35:18.938Z"
             },
             {
               "$type": "Document",

@@ -22,7 +22,7 @@ namespace Hamurgueria.Business.Models
         public Guid CategorieId { get; set; }
         public Categorie Categorie { get; set; }
 
-        public List<Order> Orders { get; set; }
+        public List<Order> Orders { get; set; } = new List<Order>();
 
     }
 }

@@ -12,3 +12,4 @@ C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmbur
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Business\bin\Debug\net8.0\Hamurgueria.Business.runtimeconfig.json
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Business\obj\Debug\net8.0\Hamurgueria.Business.genruntimeconfig.cache
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Business\obj\Debug\net8.0\Hamurgueria.Business.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Business\obj\Debug\net8.0\Hamurgueria.Business.sourcelink.json

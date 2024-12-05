@@ -10,5 +10,6 @@ namespace Hamurgueria.Business.Intefaces.RepositoryInterfaces
     public interface IProductRepository : IRepository<Product>
     {
         Task<IEnumerable<Product>> GetProductsByCategorie(Guid categorieId);
+        Task<Product> GetProductByName(string name);
     }
 }

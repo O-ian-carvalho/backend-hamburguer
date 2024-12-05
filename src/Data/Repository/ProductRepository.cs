@@ -17,6 +17,11 @@ namespace Hamurgueria.Data.Repository
         {
         }
 
+        public async Task<Product> GetProductByName(string name)
+        {
+            return await Db.Products.FirstOrDefaultAsync(x => x.Name == name);
+        }
+
         public async Task<IEnumerable<Product>> GetProductsByCategorie(Guid categorieId)
         {
             return await Db.Products.AsNoTracking().Where(p => p.CategorieId == categorieId).ToListAsync();

@@ -3,6 +3,7 @@ using Hamburgueria.Api.Dto_s;
 using Hamurgueria.Business.Intefaces.RepositoryInterfaces;
 using Hamurgueria.Business.Intefaces.ServicesIntefaces;
 using Hamurgueria.Business.Models.Categorization;
+using Hamurgueria.Data.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
@@ -75,6 +76,15 @@ namespace ApiTic.Api.Controllers
             if (Categorie != null) return NotFound();
             await _CategorieService.Remove(id);
             return CustomResponse(HttpStatusCode.NoContent);
+        }
+
+        [HttpGet("{categorieId:guid}/products")]
+        public async Task<IEnumerable<ProductDto>> ObterProductsDoPEdido(Guid categorieId)
+        {
+
+            var products = await _CategorieRepository.GetProductsInCategorie(categorieId);
+            return _mapper.Map<IEnumerable<ProductDto>>(products);
+
         }
     }
 }

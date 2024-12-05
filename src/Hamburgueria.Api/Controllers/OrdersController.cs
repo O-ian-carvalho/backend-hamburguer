@@ -47,7 +47,7 @@ namespace ApiTic.Api.Controllers
         public async Task<ActionResult> CreateOrder(OrderPostDto OrderDto)
         {
             if (!ModelState.IsValid) return CustomResponse(ModelState);
-
+         
             await _OrderService.Add(_mapper.Map<Order>(OrderDto));
             return CustomResponse(HttpStatusCode.Created, OrderDto);
         }
@@ -63,22 +63,29 @@ namespace ApiTic.Api.Controllers
             return CustomResponse(HttpStatusCode.NoContent);
         }
 
-        [HttpPut("{orderId:Guid}/product/{productId:Guid}")]
-        public async Task<ActionResult> AddProductOrder(Guid orderId, Guid productId, OrderDto order)
+        [HttpGet("{orderId:Guid}/product/{productId:Guid}")]
+        public async Task<ActionResult> AddProductOrder(Guid orderId, Guid productId)
         {
-            if (orderId != order.Id)
-            {
-                return CustomResponse();
-            }
+            
 
             if (!ModelState.IsValid) return CustomResponse(ModelState);
 
             var product = await _ProductRepository.ObterPorId(productId);
+            var order  = await _OrderRepository.ObterPorId(orderId);
 
-            var orderTrue = _mapper.Map<Order>(order);
-            orderTrue.Products.Add(product);
+            if(product == null)
+            {
+                return BadRequest("Produto não existe");
+            }
+            if (order == null)
+            {
+                return BadRequest("Pedido não existe");
+            }
 
-            await _OrderRepository.Atualizar(orderTrue);
+            await _OrderRepository.AddProductToOrder(order,product);
+            order.Products.Add(product);
+
+            await _OrderRepository.Atualizar(order);
             return CustomResponse(HttpStatusCode.NoContent);
         }
 
@@ -89,25 +96,6 @@ namespace ApiTic.Api.Controllers
             var products = await _OrderRepository.GetProductsInOrder(orderId);
             return _mapper.Map<IEnumerable<ProductDto>>(products);
 
-        }
-
-        [HttpDelete("{orderId:Guid}/product/{productId:Guid}")]
-        public async Task<ActionResult> RemoveProductOrder(Guid orderId, Guid productId, OrderDto order)
-        {
-            if (orderId != order.Id)
-            {
-                return CustomResponse();
-            }
-
-            if (!ModelState.IsValid) return CustomResponse(ModelState);
-
-            var product = await _ProductRepository.ObterPorId(productId);
-
-            var orderTrue = _mapper.Map<Order>(order);
-            order.Products.Remove(product);
-            await _OrderRepository.Atualizar(orderTrue);
-
-            return CustomResponse(HttpStatusCode.NoContent);
         }
 
     }

@@ -37,6 +37,32 @@
   },
   {
     "ContainingType": "ApiTic.Api.Controllers.CategoriesController",
+    "Method": "ObterProductsDoPEdido",
+    "RelativePath": "api/Categories/{categorieId}/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categorieId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hamburgueria.Api.Dto_s.ProductDto, Hamburgueria.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiTic.Api.Controllers.CategoriesController",
     "Method": "GetCategorieById",
     "RelativePath": "api/Categories/{id}",
     "HttpMethod": "GET",
@@ -180,7 +206,7 @@
     "ContainingType": "ApiTic.Api.Controllers.OrdersController",
     "Method": "AddProductOrder",
     "RelativePath": "api/Orders/{orderId}/product/{productId}",
-    "HttpMethod": "PUT",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -192,37 +218,6 @@
       {
         "Name": "productId",
         "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "order",
-        "Type": "Hamburgueria.Api.Dto_s.OrderDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ApiTic.Api.Controllers.OrdersController",
-    "Method": "RemoveProductOrder",
-    "RelativePath": "api/Orders/{orderId}/product/{productId}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "orderId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "productId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "order",
-        "Type": "Hamburgueria.Api.Dto_s.OrderDto",
         "IsRequired": true
       }
     ],
@@ -352,6 +347,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiTic.Api.Controllers.ProductsController",
+    "Method": "GetProductsByName",
+    "RelativePath": "api/Products/name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Hamburgueria.Api.Dto_s.ProductDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Hamburgueria.Api.Controllers.StatusController",

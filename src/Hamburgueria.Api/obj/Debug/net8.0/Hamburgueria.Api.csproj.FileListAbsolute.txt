@@ -122,3 +122,4 @@ C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmbur
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Hamburgueria.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Hamburgueria.Api\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Hamburgueria.Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\Projeto final\Api\BackendHAmburgueria\src\Hamburgueria.Api\obj\Debug\net8.0\Hamburgueria.Api.sourcelink.json

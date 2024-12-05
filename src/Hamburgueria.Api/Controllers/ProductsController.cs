@@ -41,6 +41,17 @@ namespace ApiTic.Api.Controllers
             return produto;
         }
 
+
+        [HttpGet("name/{name}")]
+        public async Task<ActionResult<ProductDto>> GetProductsByName(string name)
+        {
+            if (name == null) return BadRequest("O nome não pode ser nulo");
+            var produto = _mapper.Map<ProductDto>(await _produtoRepository.GetProductByName(name));
+
+            if (produto == null) return NotFound();
+            return produto;
+        }
+
         // POST: api/produtos
         [HttpPost]
         public async Task<ActionResult> CreateProducts(ProductPostDto produtoDto)

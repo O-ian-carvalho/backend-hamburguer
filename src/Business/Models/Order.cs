@@ -26,6 +26,7 @@ namespace Hamurgueria.Business.Models
         public void CalculateValue()
         {
             Value = 0;
+            if(Products == null) return;
             foreach (var item in Products)
             {
                 Value += item.Price;
